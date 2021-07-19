@@ -11,7 +11,7 @@ namespace corewebappforazure
 {
     public class Program
     {
-        //test comment
+        //test comment22
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
